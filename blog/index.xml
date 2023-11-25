@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Sharon&#39;s wsbsite</title>
+    <link>https://CHLAI2021.github.io/blog/</link>
+    <description>Recent content in blog on Sharon&#39;s wsbsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://CHLAI2021.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://CHLAI2021.github.io/blog/second/</link>
+      <pubDate>Sun, 05 Nov 2023 08:09:00 +0800</pubDate>
+      
+      <guid>https://CHLAI2021.github.io/blog/second/</guid>
+      <description>第2篇文章 </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://CHLAI2021.github.io/blog/first-step/</link>
+      <pubDate>Tue, 17 Oct 2023 10:05:00 +0800</pubDate>
+      
+      <guid>https://CHLAI2021.github.io/blog/first-step/</guid>
+      <description>內文 ==&amp;gt; 直接輸入
+要換到下一行須空一行輸入 : hello world
+標題 ==&amp;gt; 支援1~6 如下例以此類推</description>
+    </item>
+    
+    <item>
+      <title>collocation1</title>
+      <link>https://CHLAI2021.github.io/blog/collocation1/</link>
+      <pubDate>Wed, 21 Apr 2021 14:58:00 +0800</pubDate>
+      
+      <guid>https://CHLAI2021.github.io/blog/collocation1/</guid>
+      <description>Today&amp;rsquo;s collcation  answer the phone raise doubts turn on the light light rain heavy rain   make the sentence One of works for the receptionist is to answer the phone.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://CHLAI2021.github.io/blog/test/</link>
+      <pubDate>Sat, 17 Apr 2021 14:29:00 +0800</pubDate>
+      
+      <guid>https://CHLAI2021.github.io/blog/test/</guid>
+      <description>hello world
+我是阿柴
+一級標題 二級標題 六級標題 我是阿柴我喜歡學習
+  阿柴</description>
+    </item>
+    
+  </channel>
+</rss>
