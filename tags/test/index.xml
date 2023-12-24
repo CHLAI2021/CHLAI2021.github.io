@@ -27,17 +27,5 @@
 標題 ==&amp;gt; 支援1~6 如下例以此類推</description>
     </item>
     
-    <item>
-      <title>test</title>
-      <link>https://CHLAI2021.github.io/blog/test/</link>
-      <pubDate>Sat, 17 Apr 2021 14:29:00 +0800</pubDate>
-      
-      <guid>https://CHLAI2021.github.io/blog/test/</guid>
-      <description>hello world
-我是阿柴
-一級標題 二級標題 六級標題 我是阿柴我喜歡學習
-  阿柴</description>
-    </item>
-    
   </channel>
 </rss>
