@@ -6,14 +6,26 @@
     <description>Recent content on Sharon&#39;s wsbsite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 21 Apr 2021 14:58:00 +0800</lastBuildDate><atom:link href="https://CHLAI2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 10:05:00 +0800</lastBuildDate><atom:link href="https://CHLAI2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://CHLAI2021.github.io/blog/first-step/</link>
+      <pubDate>Tue, 17 Oct 2023 10:05:00 +0800</pubDate>
+      
+      <guid>https://CHLAI2021.github.io/blog/first-step/</guid>
+      <description>內文 ==&amp;gt; 直接輸入
+要換到下一行須空一行輸入 : hello world
+標題 ==&amp;gt; 支援1~6 如下例以此類推</description>
+    </item>
+    
     <item>
       <title> 持續買進 </title>
       <link>https://CHLAI2021.github.io/blog/book1/</link>
       <pubDate>Wed, 21 Apr 2021 14:58:00 +0800</pubDate>
       
       <guid>https://CHLAI2021.github.io/blog/book1/</guid>
-      <description></description>
+      <description>📚 What It&amp;rsquo;s About 作者本身是資料科學家，以擅長的統計圖表等資料驗證的方式為累積財富這條路提出具有可信度及可實行的建議
+🔍 How I Discovered It 看了幾個部落客都有推薦，又與自身的投資內容有點相關，因此被吸引購入</description>
     </item>
     
     <item>
