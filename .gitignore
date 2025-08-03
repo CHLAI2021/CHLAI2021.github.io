@@ -1,0 +1,5 @@
+# 忽略 Hugo 產生的 public 資料夾
+/public/
+
+# 忽略 Hugo 執行檔
+hugo.exe

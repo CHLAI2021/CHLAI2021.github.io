@@ -1,0 +1,14 @@
+enable : false
+gallery:
+  - image : "images/gallery/13.JPG"
+  - image : ""
+  - image : "images/gallery/14.JPG"
+  - image : ""
+  - image : "images/gallery/15.JPG"
+  - image : ""
+  - image : ""
+  - image : "images/gallery/17.JPG"
+  - image : ""
+  - image : "images/gallery/18.JPG"
+  - image : ""
+  - image : "images/gallery/16.JPG"

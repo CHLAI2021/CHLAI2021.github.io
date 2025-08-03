@@ -1,0 +1,58 @@
+/*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+
+PROJECT:	Project Name
+VERSION:	Versoin Number
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[TABLE OF CONTENTS]
+-------------------------------------------------------------------*/
+
+@import 'variables';
+
+@import 'mixins';
+
+@import 'typography';
+
+@import 'buttons';
+
+@import 'common';
+
+@import 'templates/navigation.scss';
+
+@import 'templates/main.scss';
+
+@import 'timeline.scss';
+
+
+/* 讓導覽列固定在頂部 */
+.navigation {
+  position: -webkit-sticky; /* 為了兼容 Safari 瀏覽器 */
+  position: sticky;
+  top: 0;
+  z-index: 1020; /* 確保導覽列在最上層，這個數字要比其他元素高 */
+  /* [優化] 讓導覽列背景為純白色 */
+  background-color: #FFFFFF; 
+  /* [優化] 使用一個幾乎看不見的底部陰影，創造最柔和的立體感 */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+}
+
+// 為整個網頁設定一個柔和的背景色
+body {
+  /* [優化] 回到我們最初選定的柔和暖灰色 */
+  background-color: #FAF9F7; 
+}
+
+/* 為文章卡片設定樣式 */
+.card {
+  /* [優化] 讓卡片背景為純白色，才能凸顯陰影 */
+  background-color: #FFFFFF;
+  /* [優化] 保留圓角，讓卡片邊緣更柔和 */
+  border-radius: 0.5rem; 
+  /* [優化] 移除邊框 */
+  border: none; 
+  /* [優化] 使用一個非常非常淡的陰影，實現自然融合的效果 */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
